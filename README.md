@@ -1,17 +1,23 @@
 # hava_durumu
 
-A new Flutter project.
+Flutter ile hava durumu uygulamasıdır. Mevcut konuma göre hava durumu bilgisini verir.
 
-## Getting Started
+2 ekrandan oluşmaktadır. İlk ekran yükleniyor ekranıdır. Bu ekran konum bilgisinin çekilip hava durumu sorgulamasının apiden yapılması esnasında kullanıcıya gösterilen ekrandır. İkinci ekran ise hava durumu bilgisinin gösterildiği ekrandır. Gece ve gündüz saatlerine göre arka plan değişmektedir. 
 
-This project is a starting point for a Flutter application.
+## Kullanılan Yapılar:
 
-A few resources to get you started if this is your first Flutter project:
+Kullanıcının konum bilgisini alma
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Konum bilgisi için izin isteme
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# hava_durumu_mobil_uygulama" 
+Hava durumu API'si kullanma
+
+API verilerini decode etme
+
+## Uygulama Ekran Görüntüleri
+![photo_2023-04-06_12-47-15](https://user-images.githubusercontent.com/72697089/230479776-76face28-4c91-4fdf-a8da-4ed31e639bec.jpg)
+
+![photo_2023-04-06_12-47-18](https://user-images.githubusercontent.com/72697089/230479798-0c2ed326-17e4-4135-9d2b-5804b2f2e60b.jpg)
+
+![photo_2023-04-06_12-47-21](https://user-images.githubusercontent.com/72697089/230479821-7ecac9e0-e987-4571-b6de-f899c3e8a2d3.jpg)
+
